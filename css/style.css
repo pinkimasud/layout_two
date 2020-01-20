@@ -1,0 +1,99 @@
+.top_header{
+height: 100px;
+margin: 0;
+padding: 0;
+    text-align: center;
+
+}
+.Header_logo{
+    background-color: rgb(42, 165, 89);
+    float: left;
+    width: 30%;
+    height: 100px;
+    text-align: center;
+}
+.header_banner{
+    background-color: rgb(53, 50, 205);
+    float: right;
+    width: 67%;
+    height: 100px;
+    text-align: center;
+}
+.Header_bar{
+    background-color: rgb(172, 243, 78);
+    height: 100px;
+    text-align: center;
+
+}
+.contain{
+    overflow: hidden;
+    margin-top: 10px;
+    text-align: center;
+}
+.left_blocks{
+    background-color: rgb(151, 42, 165);
+    float: left;
+   margin-right: 20px;
+   width: 20%;
+   height: 600px;
+}
+.middle_blocks{
+   
+    float: left;
+    margin-right: 10px;
+    height: 600px;
+    width: 55%;
+    padding: 0%;
+
+}
+.middle_top_blocks{
+    background-color: rgb(42, 161, 165);
+    height: 230px;
+
+}
+.middle_center_blocks{
+    height: 230px;
+
+}
+.center_left{
+    background-color: rgb(195, 122, 122);
+    float: left;
+    width: 50%;
+    height: 230px;
+
+}
+.center_right{
+    background-color: rgb(42, 165, 114);
+    float: right;
+    width: 50%;
+    height: 230px;
+
+}
+.middle_bottom_blocks{
+    background-color: rgb(42, 54, 165);
+    height: 230px;
+    margin: 0;
+    padding: 0%;
+
+
+}
+.right_blocks{
+    background-color: rgb(165, 42, 73);
+    float: right;
+    margin-left: 5px;
+    width: 20%;
+    height: 600px;
+}
+
+.footer{
+    background-color: rgb(165, 42, 58);
+    height: 100px;
+    text-align: center;
+
+}
+
+
+
+
+
+
